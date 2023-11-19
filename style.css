@@ -1,0 +1,43 @@
+body {
+  font-family:cursive;
+  text-align: center;
+  justify-content: center;
+  background-image: photo.jpg; 
+  align-items:center;
+  background:url(https://cdn.vectorstock.com/i/preview-1x/83/22/cartoon-hand-drawn-doodles-vehicle-theme-vector-10078322.jpg);
+}
+
+.stopwatch {
+  font-size: 35px;
+  margin: 30px;
+  margin-left: 50px;
+  background-color: #E7CBCB;
+  height: 50px;
+  width: 168px;
+  border-radius: 15px;
+
+}
+
+button {
+  font-size: 19px;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color:#C88EA7 ;
+  border: #C88EA7;
+  border-radius: 8px;
+}
+
+
+
+.container{
+           
+          width: 265px;
+          height: 260px;
+          border: 2px solid grey;
+          border-radius: 10%;
+          margin-left:38% ;
+          margin-top:15% ;
+          background-color:none;
+          background:url(https://t4.ftcdn.net/jpg/06/53/78/19/240_F_653781981_2mZP1jRwnngdklElqmQn2S7nGLBUCxF6.jpg);
+          
+}       
